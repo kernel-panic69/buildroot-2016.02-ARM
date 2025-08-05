@@ -26,5 +26,5 @@ New toolchain is available in ```output/hndtools-arm-uclibc-5.3``` (or ```output
   
 Enjoy!
   
-PS: thanks to @st_ty / @st-ty1 for initial idea: https://github.com/st-ty1/Artix_FreshTomato/tree/master/gcc-5.3-toolchain_arm
+PS: thanks to @st_ty / @st-ty1 for initial idea: https://github.com/st-ty1/Artix_FreshTomato/
   
